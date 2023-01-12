@@ -11,6 +11,6 @@ app.use("/api/users", postRoutes)
 app.use("/api/posts", postRoutes)
 
 app.listen(8800, () => {
-    console.log("Connected!")
+    console.log("Listening to port 8800!")
 })
 
