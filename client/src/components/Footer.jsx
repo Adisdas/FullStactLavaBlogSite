@@ -9,7 +9,7 @@ const Footer = () => {
       Made with ❤️ and  <b>React.js</b>.
     </span>
   </footer>
-  )
-}
+  );
+};
 
 export default Footer;
